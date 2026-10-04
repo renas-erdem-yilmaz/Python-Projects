@@ -1,0 +1,49 @@
+question,answer,category
+How do I reset my password?,Use the forgot password option on the login page to receive a reset link.,account
+I forgot my password. What should I do?,Use the forgot password option on the login page to receive a reset link.,account
+I can't remember my login password.,Use the forgot password option on the login page to receive a reset link.,account
+Why can't I log into my account?,Check that your email and password are correct. If necessary use the forgot password option.,account
+Can I use Ursula without an account?,You can access limited practice as a guest but an account is required for additional features.,account
+
+How do I cancel my subscription?,You can cancel your subscription from the billing section of your account.,billing
+How can I stop my Pro subscription?,You can cancel your subscription from the billing section of your account.,billing
+I don't want Pro anymore. How do I unsubscribe?,You can cancel your subscription from the billing section of your account.,billing
+Why was my card declined?,Check your card details and whether online payments are enabled. If the issue continues try another payment method.,billing
+My payment isn't going through. What should I do?,Check your card details and whether online payments are enabled. If the issue continues try another payment method.,billing
+I paid but Pro is still locked.,If your payment was completed but Pro is still unavailable try refreshing or signing in again. If the problem continues contact support.,billing
+Can I get a refund?,Refund eligibility depends on the circumstances of the purchase. Contact support with your payment details for assistance.,billing
+How do I upgrade to Pro?,You can upgrade to Pro from the pricing or subscription page.,billing
+
+Why is my microphone not working?,Check your browser microphone permissions and make sure the correct input device is selected.,technical
+Ursula can't hear my voice.,Check your browser microphone permissions and make sure the correct input device is selected.,technical
+My microphone works elsewhere but not on Ursula.,Check that Ursula has microphone permission in your browser and that the correct microphone is selected.,technical
+Why isn't the audio playing?,Check your device volume and browser audio permissions and try refreshing the page.,technical
+The website is loading very slowly.,Check your internet connection and refresh the page. Trying another browser may also help.,technical
+The page keeps freezing.,Refresh the page and try closing unnecessary browser tabs. If the problem continues try another browser.,technical
+My answers aren't being saved.,Make sure you are signed in and have a stable internet connection before leaving the exercise.,technical
+
+Does Ursula support IELTS?,Yes. Ursula supports IELTS practice alongside TOEFL preparation.,ielts
+What IELTS sections can I practice?,You can practice IELTS Reading Listening Writing and Speaking.,ielts
+Can I practice IELTS speaking?,Yes. Ursula includes IELTS speaking practice.,ielts
+Does Ursula have IELTS mock tests?,IELTS practice includes exam-style exercises and mock test content.,ielts
+Can I practice IELTS listening?,Yes. Ursula includes IELTS listening exercises.,ielts
+
+Does Ursula support TOEFL?,Yes. Ursula provides TOEFL practice across reading listening writing and speaking.,toefl
+Can I practice TOEFL speaking?,Yes. Ursula includes TOEFL speaking exercises.,toefl
+Are there TOEFL mock tests?,Yes. Ursula provides full TOEFL mock tests.,toefl
+How do TOEFL mock tests work?,Mock tests simulate the structure and timing of the real TOEFL exam.,toefl
+Can I practice only one TOEFL section?,Yes. You can practice individual sections without taking a complete mock test.,toefl
+
+How are speaking answers graded?,Speaking responses are evaluated based on factors such as relevance fluency pronunciation and overall quality.,speaking
+Does pronunciation affect my speaking score?,Yes. Pronunciation is one of the factors considered when evaluating speaking responses.,speaking
+Does fluency matter in speaking?,Yes. Fluency contributes to the evaluation of speaking responses.,speaking
+Can I practice speaking more than once?,You can repeat speaking practice according to the limits of your account plan.,speaking
+
+How long is a mock test?,Mock test duration depends on the exam and sections included.,mock_test
+Can I leave a mock test and continue later?,Some test sessions may require you to complete the test continuously depending on the test mode.,mock_test
+Are mock tests timed?,Yes. Mock tests use timing designed to simulate exam conditions.,mock_test
+
+What is included in Pro?,Pro provides access to additional practice features and expanded usage limits.,general
+What exams can I practice for?,Ursula provides practice for TOEFL and IELTS.,general
+Can I see my previous answers?,Your available history depends on your account plan.,general
+How does Ursula work?,Ursula provides exam-focused English practice across multiple question types and skills.,general
