@@ -1,0 +1,36 @@
+message,label
+I was charged twice for my subscription,billing
+My payment is not going through,billing
+I want to cancel my subscription,billing
+Why was I charged this month,billing
+My card keeps getting declined,billing
+I paid but Pro is still locked,billing
+Can I get a refund,billing
+My subscription renewed unexpectedly,billing
+
+The microphone is not working,technical
+The page crashes when I start a test,technical
+The audio does not play,technical
+I cannot log into my account,technical
+The speaking section freezes,technical
+The website is loading very slowly,technical
+My answers are not being saved,technical
+The test suddenly closed,technical
+
+Can you add dark mode,feature_request
+Please add vocabulary practice,feature_request
+I want a mobile app,feature_request
+Can you add more IELTS questions,feature_request
+It would be nice to have daily streaks,feature_request
+Please add pronunciation feedback,feature_request
+Can you support more languages,feature_request
+I want a progress graph,feature_request
+
+How many mock tests are available,general_question
+Does Ursula support IELTS,general_question
+How does the speaking section work,general_question
+What is included in Pro,general_question
+How long is a mock test,general_question
+Can I use Ursula without an account,general_question
+How are speaking answers graded,general_question
+What exams can I practice for,general_question
