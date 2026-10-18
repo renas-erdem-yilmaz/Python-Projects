@@ -20,6 +20,10 @@ The goal is simple: **build things, learn from them, and get better over time.**
 | 02 | Student Grade Management System | Through the system you can grade students and display grades. |
 | 03 | File based to-do list | I practiced file handling with this. |
 | 04 | Banking System | Practicing OOP for the first time in this repo. |
+| 05 | Ai Ticket Classifier | First Ai Project |
+| 06 | Semantic FAQ Matcher | Second Ai Project |
+| 07 | Expense Tracker With Tkinter | Practiced tkinter library with this project |
+| 08 | Password Strength Checker | Relatiely easier project |
 
 ## 📈 Progress
 
