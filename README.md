@@ -22,8 +22,10 @@ The goal is simple: **build things, learn from them, and get better over time.**
 | 04 | Banking System | Practicing OOP for the first time in this repo. |
 | 05 | Ai Ticket Classifier | First Ai Project |
 | 06 | Semantic FAQ Matcher | Second Ai Project |
-| 07 | Expense Tracker With Tkinter | Practiced tkinter library with this project |
-| 08 | Password Strength Checker | Relatiely easier project |
+| 07 | Pytorch Digit Classifier | Basic Ai model using Pytorch and mnist |
+| 08 | Expense Tracker With Tkinter | Practiced tkinter library with this project |
+| 09 | Password Strength Checker | Relatiely easier project |
+| 10 | Some problems to improve my algorithmic thinking as well with my basic python skills. |
 
 ## 📈 Progress
 
